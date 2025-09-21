@@ -1,0 +1,10 @@
+STT,s1,s2,s3,ExpectedResult
+1,Truong dh Cong Nghiep,dh,dai hoc,Truong dai hoc Cong Nghiep
+2,,ab,Tr,""
+3,Truong dh Cong Nghiep,,Abc,Truong  Cong Nghiep
+4,Truong dh Cong Nghiep,dh,,Truong  Cong Nghiep
+5,Truong dh Cong Nghiep,kt,Dai hoc,Truong Dai hoc Cong Nghiep
+6,abuong Dai hoc Cong Nghiep,ab,Tr,Truong Dai hoc Cong Nghiep
+7,Truong Dai hoc Cong Nghiab,ab,ep,Truong Dai hoc Cong Nghiep
+8,Truong dh Cong Nghiep,abc,,Truong dh Cong Nghiep
+9,Truong Dai hoc Cong Nghiep,dh,Dai hoc,Truong Dai hoc Cong Nghiep
