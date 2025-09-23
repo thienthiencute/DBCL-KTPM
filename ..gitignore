@@ -1,0 +1,28 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+obj/
+bin/
+Debug/
+Release/
+
+# Test results
+TestResults/
+
+# NuGet packages
+packages/
+
+# Backup / temp files
+*~
+*.tmp
+*.bak
+*.log
+
+# Editor-specific
+*.DS_Store
+
+# Optional: auto-generated project files (nếu muốn)
+# *.csproj.user

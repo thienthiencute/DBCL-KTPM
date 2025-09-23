@@ -1,0 +1,7 @@
+﻿TestCaseNo,InputA,InputB,InputC,ExpectedString,x1,x2
+1,0,0,0,"Vô số nghiệm",, 
+2,0,0,2,"Vô nghiệm",, 
+3,1,2,3,"Vô nghiệm",, 
+4,0,6,12,"Có 1 nghiệm",-2, 
+5,1,-3,2,"Có 2 nghiệm phân biệt",1,2
+6,1,2,1,"Có nghiệm kép",-1,-1
