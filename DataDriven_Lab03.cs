@@ -14,7 +14,7 @@ namespace TestUT03_TinhTienDien
             "|DataDirectory|\\Data_Lab03.csv", // file CSV
             "Data_Lab03#csv",                  // tên table MSTest
             DataAccessMethod.Sequential)]
-        [DeploymentItem("Data_Lab03.csv")]     // copy file vào thư mục chạy test
+        [DeploymentItem("Data_Lab03.csv")]     
         public void TinhTienDien_Test()
         {
             int stt = Convert.ToInt32(TestContext.DataRow["STT"]);

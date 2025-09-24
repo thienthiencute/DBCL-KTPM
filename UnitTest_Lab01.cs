@@ -8,45 +8,32 @@ namespace TestUT01_TimMax
     {
         private MethodLibrary.MethodLibrary obj = new MethodLibrary.MethodLibrary();
 
-        private void TestMaxIsA(int a, int b, int c, int expected)
+        // Test giá trị trả về bình thường
+        private void TestMax(int a, int b, int c, int expected)
         {
             int actual = obj.Max(a, b, c);
             Assert.AreEqual(expected, actual);
         }
 
-        private void TestMaxIsB(int a, int b, int c, int expected)
-        {
-            int actual = obj.Max(a, b, c);
-            Assert.AreEqual(expected, actual);
-        }
-
-        private void TestMaxIsC(int a, int b, int c, int expected)
-        {
-            int actual = obj.Max(a, b, c);
-            Assert.AreEqual(expected, actual);
-        }
-
+        // Test ngoại lệ
         private void TestException(int a, int b, int c)
         {
             Assert.ThrowsException<IndexOutOfRangeException>(() => obj.Max(a, b, c));
         }
 
+        // Thông thường
+        [TestMethod] public void test01() => TestMax(16, 12, 8, 16);
+        [TestMethod] public void test02() => TestMax(8, 16, 12, 16);
+        [TestMethod] public void test03() => TestMax(12, 8, 16, 16);
+        [TestMethod] public void test04() => TestMax(16, 16, 12, 16);
+        [TestMethod] public void test05() => TestMax(16, 12, 16, 16);
+        [TestMethod] public void test06() => TestMax(12, 16, 16, 16);
+        [TestMethod] public void test07() => TestMax(16, 16, 16, 16);
+        [TestMethod] public void test08() => TestMax(8, 8, 14, 14);
+        [TestMethod] public void test09() => TestMax(8, 14, 8, 14);
+        [TestMethod] public void test10() => TestMax(14, 8, 8, 14);
 
-
-        [TestMethod] public void test01() => TestMaxIsA(16, 12, 8, 16);
-        [TestMethod] public void test02() => TestMaxIsC(8, 12, 16, 16);
-        [TestMethod] public void test03() => TestMaxIsB(12, 16, 8, 16);
-
-        [TestMethod] public void test04() => TestMaxIsA(16, 16, 12, 16);
-        [TestMethod] public void test05() => TestMaxIsC(12, 16, 16, 16);
-        [TestMethod] public void test06() => TestMaxIsB(12, 16, 16, 16);
-        [TestMethod] public void test07() => TestMaxIsA(16, 16, 16, 16);
-
-        [TestMethod] public void test08() => TestMaxIsC(8, 8, 14, 14);
-        [TestMethod] public void test09() => TestMaxIsB(8, 14, 8, 14);
-        [TestMethod] public void test10() => TestMaxIsA(14, 8, 8, 14);
-
-        // IP
+        // Ngoại lệ (out of range)
         [TestMethod] public void test11() => TestException(-10, 12, 8);
         [TestMethod] public void test12() => TestException(56, 12, 8);
         [TestMethod] public void test13() => TestException(16, -10, 8);
@@ -54,11 +41,11 @@ namespace TestUT01_TimMax
         [TestMethod] public void test15() => TestException(16, 12, -10);
         [TestMethod] public void test16() => TestException(16, 12, 56);
 
-        // VB
-        [TestMethod] public void test17() => TestMaxIsA(1, 1, 1, 1);
-        [TestMethod] public void test18() => TestMaxIsA(50, 50, 50, 50);
+        // Giá trị biên hợp lệ
+        [TestMethod] public void test17() => TestMax(1, 1, 1, 1);
+        [TestMethod] public void test18() => TestMax(50, 50, 50, 50);
 
-        // IB
+        // Ngoại lệ biên
         [TestMethod] public void test19() => TestException(0, 12, 12);
         [TestMethod] public void test20() => TestException(51, 12, 12);
         [TestMethod] public void test21() => TestException(12, 0, 12);

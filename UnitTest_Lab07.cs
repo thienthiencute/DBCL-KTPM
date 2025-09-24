@@ -9,7 +9,7 @@ namespace TestUT07_Largest
         MethodLibrary.MethodLibrary obj = new MethodLibrary.MethodLibrary();
 
         [TestMethod]
-        public void Test1_VP()
+        public void Test01_VP()
         {
             int[] a = { 1, 2, 3, 4 };
             int expected = 4;
@@ -18,7 +18,7 @@ namespace TestUT07_Largest
         }
 
         [TestMethod]
-        public void Test2_VB()
+        public void Test02_VB()
         {
             int[] a = { 1, 2, -2147483648 };
             int expected = 2;
@@ -27,7 +27,7 @@ namespace TestUT07_Largest
         }
 
         [TestMethod]
-        public void Test3_VB_Max()
+        public void Test03_VB_Max()
         {
             int[] a = { 1, 2, 2147483647 };
             int expected = 2147483647;
@@ -36,7 +36,7 @@ namespace TestUT07_Largest
         }
 
         [TestMethod]
-        public void Test4_IB_Empty()
+        public void Test04_IB_Empty()
         {
             int[] a = { };
             int expected = 2147483647; // theo yêu cầu

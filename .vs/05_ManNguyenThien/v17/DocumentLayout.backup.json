@@ -3,22 +3,68 @@
   "WorkspaceRootPath": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|d:\\deadline\\dbcl\u0026ktpm\\unittestmodule02_dhktpm18c_thienmannguyen\\unittest_lab08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|d:\\deadline\\dbcl\u0026ktpm\\unittestmodule02_dhktpm18c_thienmannguyen\\datadriven_lab08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:datadriven_lab08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\unittest_lab08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:unittest_lab08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|d:\\deadline\\dbcl\u0026ktpm\\unittestmodule02_dhktpm18c_thienmannguyen\\data_lab08.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\unittest_lab07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:unittest_lab07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\unittest_lab06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:unittest_lab06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\unittest_lab05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:unittest_lab05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\unittest_lab04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:unittest_lab04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\unittest_lab02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:unittest_lab02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\unittest_lab01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:unittest_lab01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\datadriven_lab04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:datadriven_lab04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\datadriven_lab03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:datadriven_lab03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\datadriven_lab01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:datadriven_lab01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\data_lab01.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:data_lab01.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\data_lab08.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:data_lab08.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|05_ManNguyenThien||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\data_lab04.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:data_lab04.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|UnitTestModule02_DHKTPM18C_ThienManNguyen.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\unittest05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|UnitTestModule02_DHKTPM18C_ThienManNguyen.csproj|solutionrelative:unittest05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\data_lab03.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:data_lab03.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|d:\\deadline\\dbcl\u0026ktpm\\unittestmodule02_dhktpm18c_thienmannguyen\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+      "AbsoluteMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\..gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1606E386-1F76-4B23-88CC-2919DBED66AD}|05_ManNguyenThien.csproj|solutionrelative:..gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,48 +74,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest_Lab08.cs",
-              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab08.cs",
-              "RelativeDocumentMoniker": "UnitTest_Lab08.cs",
-              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab08.cs*",
-              "RelativeToolTip": "UnitTest_Lab08.cs*",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAQwK8AAAAAAAAAAAAAAA==",
+              "Title": "DataDriven_Lab08.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\DataDriven_Lab08.cs",
+              "RelativeDocumentMoniker": "DataDriven_Lab08.cs",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\DataDriven_Lab08.cs",
+              "RelativeToolTip": "DataDriven_Lab08.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T07:36:19.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Data_Lab08.csv",
-              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\Data_Lab08.csv",
-              "RelativeDocumentMoniker": "Data_Lab08.csv",
-              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\Data_Lab08.csv",
-              "RelativeToolTip": "Data_Lab08.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-09-23T07:11:45.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "05_ManNguyenThien",
-              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\05_ManNguyenThien.csproj",
-              "RelativeDocumentMoniker": "05_ManNguyenThien.csproj",
-              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\05_ManNguyenThien.csproj*",
-              "RelativeToolTip": "05_ManNguyenThien.csproj*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-22T16:34:49.394Z",
+              "WhenOpened": "2025-09-24T12:24:10.011Z",
               "EditorCaption": ""
             },
             {
@@ -78,15 +95,187 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitTest05.cs",
-              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest05.cs",
-              "RelativeDocumentMoniker": "UnitTest05.cs",
-              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest05.cs",
-              "RelativeToolTip": "UnitTest05.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UnitTest_Lab05.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab05.cs",
+              "RelativeDocumentMoniker": "UnitTest_Lab05.cs",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab05.cs",
+              "RelativeToolTip": "UnitTest_Lab05.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T06:53:23.382Z"
+              "WhenOpened": "2025-09-24T14:55:22.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest_Lab04.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab04.cs",
+              "RelativeDocumentMoniker": "UnitTest_Lab04.cs",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab04.cs",
+              "RelativeToolTip": "UnitTest_Lab04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:55:20.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataDriven_Lab04.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\DataDriven_Lab04.cs",
+              "RelativeDocumentMoniker": "DataDriven_Lab04.cs",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\DataDriven_Lab04.cs",
+              "RelativeToolTip": "DataDriven_Lab04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:54:32.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataDriven_Lab03.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\DataDriven_Lab03.cs",
+              "RelativeDocumentMoniker": "DataDriven_Lab03.cs",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\DataDriven_Lab03.cs",
+              "RelativeToolTip": "DataDriven_Lab03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:54:31.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Data_Lab04.csv",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\Data_Lab04.csv",
+              "RelativeDocumentMoniker": "Data_Lab04.csv",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\Data_Lab04.csv",
+              "RelativeToolTip": "Data_Lab04.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-09-24T14:52:59.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Data_Lab03.csv",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\Data_Lab03.csv",
+              "RelativeDocumentMoniker": "Data_Lab03.csv",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\Data_Lab03.csv",
+              "RelativeToolTip": "Data_Lab03.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-09-24T14:52:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataDriven_Lab01.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\DataDriven_Lab01.cs",
+              "RelativeDocumentMoniker": "DataDriven_Lab01.cs",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\DataDriven_Lab01.cs",
+              "RelativeToolTip": "DataDriven_Lab01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:52:06.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest_Lab02.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab02.cs",
+              "RelativeDocumentMoniker": "UnitTest_Lab02.cs",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab02.cs",
+              "RelativeToolTip": "UnitTest_Lab02.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:45:23.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest_Lab06.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab06.cs",
+              "RelativeDocumentMoniker": "UnitTest_Lab06.cs",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab06.cs",
+              "RelativeToolTip": "UnitTest_Lab06.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:26:35.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "..gitignore",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\..gitignore",
+              "RelativeDocumentMoniker": "..gitignore",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\..gitignore",
+              "RelativeToolTip": "..gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-24T12:22:33.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest_Lab08.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab08.cs",
+              "RelativeDocumentMoniker": "UnitTest_Lab08.cs",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab08.cs",
+              "RelativeToolTip": "UnitTest_Lab08.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:20:05.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Data_Lab08.csv",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\Data_Lab08.csv",
+              "RelativeDocumentMoniker": "Data_Lab08.csv",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\Data_Lab08.csv",
+              "RelativeToolTip": "Data_Lab08.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-09-24T12:20:23.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest_Lab07.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab07.cs",
+              "RelativeDocumentMoniker": "UnitTest_Lab07.cs",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab07.cs",
+              "RelativeToolTip": "UnitTest_Lab07.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T16:48:31.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest_Lab01.cs",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab01.cs",
+              "RelativeDocumentMoniker": "UnitTest_Lab01.cs",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\UnitTest_Lab01.cs",
+              "RelativeToolTip": "UnitTest_Lab01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T16:42:41.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Data_Lab01.csv",
+              "DocumentMoniker": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\Data_Lab01.csv",
+              "RelativeDocumentMoniker": "Data_Lab01.csv",
+              "ToolTip": "D:\\DEADLINE\\DBCL\u0026KTPM\\UnitTestModule02_DHKTPM18C_ThienManNguyen\\Data_Lab01.csv",
+              "RelativeToolTip": "Data_Lab01.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-09-23T16:41:51.918Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Bookmark",

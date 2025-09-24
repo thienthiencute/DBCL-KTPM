@@ -54,8 +54,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataDriven_Lab01.cs" />
-    <Compile Include="DataDriven_Lab06.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DataDriven_Lab08.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="UnitTest_Lab06.cs" />
     <Compile Include="UnitTest_Lab08.cs" />
     <Compile Include="UnitTest_Lab02.cs" />
     <Compile Include="DataDriven_Lab03.cs" />
@@ -69,19 +72,12 @@
     <None Include="Data_Lab03.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="Data_Lab06.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="Data_Lab02.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Include="Data_Lab01.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Data_Lab04.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="Data_Lab07.csv" />
     <None Include="Data_Lab08.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
